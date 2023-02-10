@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div class="hero min-h-screen bg-[url('src/assets/office.jpg')]">
+  <div class="hero min-h-screen bg-[url('src/assets/professional.jpg')]">
   <div class="hero-overlay bg-opacity-60"></div>
   <div class="hero-content text-center text-neutral-content">
     <div class="max-w-md">
