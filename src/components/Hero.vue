@@ -12,13 +12,13 @@
     </div>
   </div>
 </div> -->
-<div class="hero min-h-screen bg-base-200">
+<div class="hero min-h-fit bg-base-200">
   <div class="hero-content flex-col lg:flex-row-reverse">
-    <img src="src/assets/professional.jpg" class="max-w-2xl mask mask-decagon shadow-2xl" />
+    <img src="src/assets/graphic.png" class="max-w-2xl mask mask-decagon shadow-2xl" />
     <div>
-      <h1 class="text-5xl font-bold">Big ideas for small businesses</h1>
+      <h1 class="text-5xl font-bold">Creative web solutions for small businesses</h1>
       <p class="py-6">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
-      <button class="btn btn-primary">Get Started</button>
+      <button class="btn btn-primary">Let's Chat</button>
     </div>
   </div>
 </div>
